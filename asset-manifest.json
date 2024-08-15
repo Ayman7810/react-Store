@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-Store/static/css/main.9febfe6a.css",
+    "main.js": "/react-Store/static/js/main.4be8508a.js",
+    "static/media/slider4.png": "/react-Store/static/media/slider4.8049dedb7c458a0534a5.png",
+    "static/media/prod4.png": "/react-Store/static/media/prod4.60c973db7361e54bb831.png",
+    "static/media/slider1.png": "/react-Store/static/media/slider1.2d6dc5a9c0fd289461ee.png",
+    "static/media/prod3.png": "/react-Store/static/media/prod3.c073f706ba444448c519.png",
+    "static/media/mobile2.png": "/react-Store/static/media/mobile2.1b3cf13086e809bb8d7d.png",
+    "static/media/mobile1.png": "/react-Store/static/media/mobile1.1997f77f2ce6b9677dc6.png",
+    "static/media/mobile.png": "/react-Store/static/media/mobile.1c4bc892a60e36742151.png",
+    "static/media/prod1.png": "/react-Store/static/media/prod1.9f9a0d840227c590ac5d.png",
+    "static/media/Cairo-Medium.ttf": "/react-Store/static/media/Cairo-Medium.58deadbf05ef43abbdbd.ttf",
+    "static/media/clothe.png": "/react-Store/static/media/clothe.63497de16012693f71f1.png",
+    "static/media/labtop.png": "/react-Store/static/media/labtop.72427ac57eccb337dd2b.png",
+    "static/media/avatar.png": "/react-Store/static/media/avatar.f5ed20588df8bb546e2d.png",
+    "static/media/brand3.png": "/react-Store/static/media/brand3.1a0049b1f1a261d0e6d1.png",
+    "index.html": "/react-Store/index.html",
+    "main.9febfe6a.css.map": "/react-Store/static/css/main.9febfe6a.css.map",
+    "main.4be8508a.js.map": "/react-Store/static/js/main.4be8508a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9febfe6a.css",
+    "static/js/main.4be8508a.js"
+  ]
+}
